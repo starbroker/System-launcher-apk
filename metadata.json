@@ -1,0 +1,6 @@
+{
+  "name": "Harmony Launcher",
+  "description": "A fluid, highly customizable system launcher inspired by Harmony OS and ColorOS.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
